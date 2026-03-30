@@ -1,0 +1,24 @@
+[submodule "draco"]
+	path = draco
+	url = git@github.com:google/draco.git
+[submodule "caldera"]
+	path = caldera
+	url = git@github.com:mitre/caldera.git
+[submodule "cgltf"]
+	path = cgltf
+	url = git@github.com:jkuhlmann/cgltf.git
+[submodule "MaterialX"]
+	path = MaterialX
+	url = git@github.com:AcademySoftwareFoundation/MaterialX.git
+[submodule "OpenShadingLanguage"]
+	path = OpenShadingLanguage
+	url = git@github.com:AcademySoftwareFoundation/OpenShadingLanguage.git
+[submodule "OpenSubdiv"]
+	path = OpenSubdiv
+	url = git@github.com:PixarAnimationStudios/OpenSubdiv.git
+[submodule "OpenUSD"]
+	path = OpenUSD
+	url = git@github.com:PixarAnimationStudios/OpenUSD.git
+[submodule "openvdb"]
+	path = openvdb
+	url = git@github.com:AcademySoftwareFoundation/openvdb.git
