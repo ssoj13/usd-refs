@@ -1,9 +1,6 @@
 [submodule "draco"]
 	path = draco
 	url = git@github.com:google/draco.git
-[submodule "caldera"]
-	path = caldera
-	url = git@github.com:mitre/caldera.git
 [submodule "cgltf"]
 	path = cgltf
 	url = git@github.com:jkuhlmann/cgltf.git
@@ -22,3 +19,6 @@
 [submodule "openvdb"]
 	path = openvdb
 	url = git@github.com:AcademySoftwareFoundation/openvdb.git
+[submodule "caldera"]
+	path = caldera
+	url = git@github.com:Activision/caldera.git
