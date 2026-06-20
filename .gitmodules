@@ -22,3 +22,18 @@
 [submodule "caldera"]
 	path = caldera
 	url = git@github.com:Activision/caldera.git
+[submodule "OpenColorIO"]
+	path = OpenColorIO
+	url = git@github.com:AcademySoftwareFoundation/OpenColorIO.git
+[submodule "OpenImageIO"]
+	path = OpenImageIO
+	url = git@github.com:AcademySoftwareFoundation/OpenImageIO.git
+[submodule "openexr"]
+	path = openexr
+	url = git@github.com:AcademySoftwareFoundation/openexr.git
+[submodule "OpenJPH"]
+	path = OpenJPH
+	url = git@github.com:aous72/OpenJPH.git
+[submodule "aces-looks"]
+	path = aces-looks
+	url = git@github.com:priikone/aces-looks.git
