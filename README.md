@@ -8,3 +8,8 @@
 - git@github.com:AcademySoftwareFoundation/OpenShadingLanguage.git
 - git@github.com:PixarAnimationStudios/OpenSubdiv.git
 - git@github.com:PixarAnimationStudios/OpenUSD.git
+- git@github.com:AcademySoftwareFoundation/OpenColorIO.git
+- git@github.com:AcademySoftwareFoundation/OpenImageIO.git
+- git@github.com:AcademySoftwareFoundation/openexr.git
+- git@github.com:aous72/OpenJPH.git
+- git@github.com:priikone/aces-looks.git
