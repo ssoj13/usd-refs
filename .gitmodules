@@ -37,3 +37,132 @@
 [submodule "aces-looks"]
 	path = aces-looks
 	url = git@github.com:priikone/aces-looks.git
+[submodule "alembic"]
+	path = alembic
+	url = git@github.com:alembic/alembic.git
+[submodule "OpenTimelineIO"]
+	path = OpenTimelineIO
+	url = git@github.com:AcademySoftwareFoundation/OpenTimelineIO.git
+[submodule "OpenPBR"]
+	path = OpenPBR
+	url = git@github.com:AcademySoftwareFoundation/OpenPBR.git
+[submodule "ptex"]
+	path = ptex
+	url = git@github.com:wdas/ptex.git
+[submodule "embree"]
+	path = embree
+	url = git@github.com:RenderKit/embree.git
+[submodule "oidn"]
+	path = oidn
+	url = git@github.com:RenderKit/oidn.git
+[submodule "openfx"]
+	path = openfx
+	url = git@github.com:AcademySoftwareFoundation/openfx.git
+[submodule "assimp"]
+	path = assimp
+	url = git@github.com:assimp/assimp.git
+[submodule "meshoptimizer"]
+	path = meshoptimizer
+	url = git@github.com:zeux/meshoptimizer.git
+[submodule "MikkTSpace"]
+	path = MikkTSpace
+	url = git@github.com:mmikk/MikkTSpace.git
+[submodule "aces-dev"]
+	path = aces-dev
+	url = git@github.com:ampas/aces-dev.git
+[submodule "rawtoaces"]
+	path = rawtoaces
+	url = git@github.com:AcademySoftwareFoundation/rawtoaces.git
+[submodule "LibRaw"]
+	path = LibRaw
+	url = git@github.com:LibRaw/LibRaw.git
+[submodule "libjxl"]
+	path = libjxl
+	url = git@github.com:libjxl/libjxl.git
+[submodule "libheif"]
+	path = libheif
+	url = git@github.com:strukturag/libheif.git
+[submodule "opencv"]
+	path = opencv
+	url = git@github.com:opencv/opencv.git
+[submodule "opencv_contrib"]
+	path = opencv_contrib
+	url = git@github.com:opencv/opencv_contrib.git
+[submodule "colmap"]
+	path = colmap
+	url = git@github.com:colmap/colmap.git
+[submodule "AliceVision"]
+	path = AliceVision
+	url = git@github.com:alicevision/AliceVision.git
+[submodule "openMVG"]
+	path = openMVG
+	url = git@github.com:openMVG/openMVG.git
+[submodule "openMVS"]
+	path = openMVS
+	url = git@github.com:cdcseacave/openMVS.git
+[submodule "ceres-solver"]
+	path = ceres-solver
+	url = git@github.com:ceres-solver/ceres-solver.git
+[submodule "apriltag"]
+	path = apriltag
+	url = git@github.com:AprilRobotics/apriltag.git
+[submodule "gaussian-splatting"]
+	path = gaussian-splatting
+	url = git@github.com:graphdeco-inria/gaussian-splatting.git
+[submodule "instant-ngp"]
+	path = instant-ngp
+	url = git@github.com:NVlabs/instant-ngp.git
+[submodule "librealsense"]
+	path = librealsense
+	url = git@github.com:IntelRealSense/librealsense.git
+[submodule "pcl"]
+	path = pcl
+	url = git@github.com:PointCloudLibrary/pcl.git
+[submodule "gtsam"]
+	path = gtsam
+	url = git@github.com:borglab/gtsam.git
+[submodule "eigen"]
+	path = eigen
+	url = https://gitlab.com/libeigen/eigen.git
+[submodule "glm"]
+	path = glm
+	url = git@github.com:g-truc/glm.git
+[submodule "filament"]
+	path = filament
+	url = git@github.com:google/filament.git
+[submodule "bgfx"]
+	path = bgfx
+	url = git@github.com:bkaradzic/bgfx.git
+[submodule "Vulkan-Headers"]
+	path = Vulkan-Headers
+	url = git@github.com:KhronosGroup/Vulkan-Headers.git
+[submodule "VulkanMemoryAllocator"]
+	path = VulkanMemoryAllocator
+	url = git@github.com:GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator.git
+[submodule "SPIRV-Cross"]
+	path = SPIRV-Cross
+	url = git@github.com:KhronosGroup/SPIRV-Cross.git
+[submodule "glslang"]
+	path = glslang
+	url = git@github.com:KhronosGroup/glslang.git
+[submodule "KTX-Software"]
+	path = KTX-Software
+	url = git@github.com:KhronosGroup/KTX-Software.git
+[submodule "imgui"]
+	path = imgui
+	url = git@github.com:ocornut/imgui.git
+[submodule "ImGuizmo"]
+	path = ImGuizmo
+	url = git@github.com:CedricGuillemet/ImGuizmo.git
+[submodule "imgui-node-editor"]
+	path = imgui-node-editor
+	url = git@github.com:thedmd/imgui-node-editor.git
+[submodule "implot"]
+	path = implot
+	url = git@github.com:epezent/implot.git
+[submodule "glfw"]
+	path = glfw
+	url = git@github.com:glfw/glfw.git
+[submodule "SDL"]
+	path = SDL
+	url = git@github.com:libsdl-org/SDL.git
