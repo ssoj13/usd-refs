@@ -169,3 +169,9 @@
 [submodule "dav1d"]
 	path = dav1d
 	url = git@github.com:videolan/dav1d.git
+[submodule "openh264"]
+	path = openh264
+	url = git@github.com:cisco/openh264.git
+[submodule "rav1e"]
+	path = rav1e
+	url = git@github.com:xiph/rav1e.git
