@@ -64,6 +64,7 @@ Most upstreams are on GitHub via SSH; **Eigen** lives on GitLab (HTTPS).
 | **LibRaw** | Decode camera RAW formats | [`LibRaw/LibRaw`](https://github.com/LibRaw/LibRaw) |
 | **libjxl** | JPEG XL reference codec | [`libjxl/libjxl`](https://github.com/libjxl/libjxl) |
 | **libheif** | HEIF / AVIF image container codec | [`strukturag/libheif`](https://github.com/strukturag/libheif) |
+| **dav1d** | Small, fast AV1 video decoder (VideoLAN) | [`videolan/dav1d`](https://github.com/videolan/dav1d) |
 
 ### Volumes
 | Library | What it is | Upstream |
