@@ -64,6 +64,7 @@ Most upstreams are on GitHub via SSH; **Eigen** lives on GitLab (HTTPS).
 | **LibRaw** | Decode camera RAW formats | [`LibRaw/LibRaw`](https://github.com/LibRaw/LibRaw) |
 | **libjxl** | JPEG XL reference codec | [`libjxl/libjxl`](https://github.com/libjxl/libjxl) |
 | **libheif** | HEIF / AVIF image container codec | [`strukturag/libheif`](https://github.com/strukturag/libheif) |
+| **libde265** | Open H.265 / HEVC video decoder (used by libheif) | [`strukturag/libde265`](https://github.com/strukturag/libde265) |
 | **dav1d** | Small, fast AV1 video decoder (VideoLAN) | [`videolan/dav1d`](https://github.com/videolan/dav1d) |
 | **rav1e** | Fast and safe AV1 video encoder (Rust, Xiph/AOMedia) | [`xiph/rav1e`](https://github.com/xiph/rav1e) |
 | **openh264** | Cisco's open H.264 codec (encoder/decoder) | [`cisco/openh264`](https://github.com/cisco/openh264) |
