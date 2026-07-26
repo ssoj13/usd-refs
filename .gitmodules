@@ -181,3 +181,51 @@
 [submodule "OpenHTJ2K"]
 	path = OpenHTJ2K
 	url = git@github.com:osamu620/OpenHTJ2K.git
+[submodule "FFmpeg"]
+	path = FFmpeg
+	url = git@github.com:FFmpeg/FFmpeg.git
+[submodule "OpenRV"]
+	path = OpenRV
+	url = git@github.com:AcademySoftwareFoundation/OpenRV.git
+[submodule "Symphonia"]
+	path = Symphonia
+	url = git@github.com:pdeljanov/Symphonia.git
+[submodule "rust-av"]
+	path = rust-av
+	url = git@github.com:rust-av/rust-av.git
+[submodule "_colmap/colmap"]
+	path = _colmap/colmap
+	url = git@github.com:colmap/colmap.git
+[submodule "_colmap/PoseLib"]
+	path = _colmap/PoseLib
+	url = git@github.com:PoseLib/PoseLib.git
+[submodule "_colmap/ceres-solver"]
+	path = _colmap/ceres-solver
+	url = git@github.com:ceres-solver/ceres-solver.git
+[submodule "_colmap/SiftGPU"]
+	path = _colmap/SiftGPU
+	url = git@github.com:pitzer/SiftGPU.git
+[submodule "_colmap/vlfeat"]
+	path = _colmap/vlfeat
+	url = git@github.com:vlfeat/vlfeat.git
+[submodule "_colmap/cgal"]
+	path = _colmap/cgal
+	url = git@github.com:CGAL/cgal.git
+[submodule "_colmap/ply2splat"]
+	path = _colmap/ply2splat
+	url = git@github.com:bastikohn/ply2splat.git
+[submodule "_colmap/wgpu-3dgs-viewer"]
+	path = _colmap/wgpu-3dgs-viewer
+	url = git@github.com:ssoj13/wgpu-3dgs-viewer.git
+[submodule "_colmap/wgpu-3dgs-editor"]
+	path = _colmap/wgpu-3dgs-editor
+	url = git@github.com:ssoj13/wgpu-3dgs-editor.git
+[submodule "_colmap/wgpu-3dgs-core"]
+	path = _colmap/wgpu-3dgs-core
+	url = git@github.com:ssoj13/wgpu-3dgs-core.git
+[submodule "_colmap/web-splat"]
+	path = _colmap/web-splat
+	url = git@github.com:ssoj13/web-splat.git
+[submodule "_colmap/bevy_gaussian_splatting"]
+	path = _colmap/bevy_gaussian_splatting
+	url = git@github.com:mosure/bevy_gaussian_splatting.git
