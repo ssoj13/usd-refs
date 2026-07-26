@@ -229,3 +229,21 @@
 [submodule "_colmap/bevy_gaussian_splatting"]
 	path = _colmap/bevy_gaussian_splatting
 	url = git@github.com:mosure/bevy_gaussian_splatting.git
+[submodule "_far/far2l"]
+	path = _far/far2l
+	url = git@github.com:elfmz/far2l.git
+[submodule "_far/FarManager"]
+	path = _far/FarManager
+	url = git@github.com:FarGroup/FarManager.git
+[submodule "_far/wezterm"]
+	path = _far/wezterm
+	url = https://github.com/wezterm/wezterm.git
+[submodule "_far/rio"]
+	path = _far/rio
+	url = https://github.com/raphamorim/rio.git
+[submodule "_far/alacritty"]
+	path = _far/alacritty
+	url = git@github.com:alacritty/alacritty.git
+[submodule "_far/warp"]
+	path = _far/warp
+	url = git@github.com:warpdotdev/warp.git
