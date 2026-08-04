@@ -181,8 +181,8 @@
 [submodule "OpenHTJ2K"]
 	path = OpenHTJ2K
 	url = git@github.com:osamu620/OpenHTJ2K.git
-[submodule "FFmpeg"]
-	path = FFmpeg
+[submodule "ffmpeg8"]
+	path = ffmpeg8
 	url = git@github.com:FFmpeg/FFmpeg.git
 [submodule "OpenRV"]
 	path = OpenRV
@@ -247,3 +247,6 @@
 [submodule "_far/warp"]
 	path = _far/warp
 	url = git@github.com:warpdotdev/warp.git
+[submodule "ffmpeg9"]
+	path = ffmpeg9
+	url = git@github.com:FFmpeg/FFmpeg.git
