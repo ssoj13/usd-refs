@@ -250,3 +250,6 @@
 [submodule "ffmpeg9"]
 	path = ffmpeg9
 	url = git@github.com:FFmpeg/FFmpeg.git
+[submodule "Cryptomatte"]
+	path = Cryptomatte
+	url = git@github.com:Psyop/Cryptomatte.git
