@@ -253,3 +253,18 @@
 [submodule "Cryptomatte"]
 	path = Cryptomatte
 	url = git@github.com:Psyop/Cryptomatte.git
+[submodule "avm"]
+	path = avm
+	url = https://github.com/AOMediaCodec/avm.git
+[submodule "exiftool"]
+	path = exiftool
+	url = https://github.com/exiftool/exiftool.git
+[submodule "Imath"]
+	path = Imath
+	url = git@github.com:AcademySoftwareFoundation/Imath.git
+[submodule "libdeflate"]
+	path = libdeflate
+	url = git@github.com:ebiggers/libdeflate.git
+[submodule "openexr-images"]
+	path = openexr-images
+	url = git@github.com:AcademySoftwareFoundation/openexr-images.git
