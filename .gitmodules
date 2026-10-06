@@ -271,3 +271,15 @@
 [submodule "ppf-contact-solver"]
 	path = ppf-contact-solver
 	url = https://github.com/st-tech/ppf-contact-solver.git
+[submodule "ntsc-rs"]
+	path = ntsc-rs
+	url = https://github.com/ntsc-rs/ntsc-rs
+[submodule "openfx-runner"]
+	path = openfx-runner
+	url = https://github.com/nweston/openfx-runner.git
+[submodule "VideoFX-rs"]
+	path = VideoFX-rs
+	url = https://github.com/zzzEffects/VideoFX-rs.git
+[submodule "libjpeg-turbo"]
+	path = libjpeg-turbo
+	url = https://github.com/libjpeg-turbo/libjpeg-turbo.git
