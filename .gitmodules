@@ -283,3 +283,6 @@
 [submodule "libjpeg-turbo"]
 	path = libjpeg-turbo
 	url = https://github.com/libjpeg-turbo/libjpeg-turbo.git
+[submodule "Little-CMS"]
+	path = Little-CMS
+	url = git@github.com:mm2/Little-CMS.git
